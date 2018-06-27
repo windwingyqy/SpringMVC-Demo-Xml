@@ -1,4 +1,11 @@
-/target/  
+/target/
+.classpath
+.name
+.project
+.idea*
+.settings*
+*.iml
+*.log  
 /.settings/  
 /.project  
 /.classpath  
